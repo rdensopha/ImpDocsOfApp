@@ -1,0 +1,53 @@
+===============================YAHOO====================
+{
+ "stat"=>"ok",
+ "profile"=>{
+ 			"providerName"=>"Yahoo!",
+ 			"identifier"=>"https://me.yahoo.com/a/Sfjx63gTxN8gOt6NppnqfjFRxgxx.Q--#27735",
+ 			"verifiedEmail"=>"rdensopha@yahoo.com",
+ 			"preferredUsername"=>"Rodriguez",
+ 			"displayName"=>"Rodriguez Densopha",
+ 			"name"=>{
+ 					"formatted"=>"Rodriguez Densopha"},
+ 			"email"=>"rdensopha@yahoo.com",
+ 			"photo"=>"https://s.yimg.com/dh/ap/social/profile/profile_b48.png",
+ 			"utcOffset"=>"-07:00",
+ 			"gender"=>"male"}
+}
+==========================FACEBOOK=========================
+{
+ "stat"=>"ok",
+ "profile"=>{
+             "providerName"=>"Facebook",
+             "identifier"=>"http://www.facebook.com/profile.php?id=100005596444229",
+             "verifiedEmail"=>"rdensopha@yahoo.com",
+             "preferredUsername"=>"RodriguezDensopha",
+             "displayName"=>"Rodriguez Densopha",
+             "name"=>{
+             		  "formatted"=>"Rodriguez Densopha",
+             		  "givenName"=>"Rodriguez",
+             		  "familyName"=>"Densopha"},
+             "email"=>"rdensopha@yahoo.com",
+             "url"=>"http://www.facebook.com/rodriguez.densopha",
+             "photo"=>"https://graph.facebook.com/100005596444229/picture?type=large",
+             "utcOffset"=>"05:30",
+             "gender"=>"male"},
+ "limited_data"=>"false"
+}
+==========================GOOGLE============================
+{
+ "stat"=>"ok",
+ "profile"=>{
+ 			 "providerName"=>"Google",
+ 			 "identifier"=>"https://www.google.com/profiles/113771013575257379137",
+ 			 "verifiedEmail"=>"swahero@gmail.com",
+ 			 "preferredUsername"=>"swahero",
+ 			 "displayName"=>"swa hero",
+ 			 "name"=>{
+ 			 		  "formatted"=>"swa hero",
+ 			 		  "givenName"=>"swa",
+ 			 		  "familyName"=>"hero"},
+ 			 "email"=>"swahero@gmail.com",
+ 			 "url"=>"https://www.google.com/profiles/113771013575257379137",
+ 			 "googleUserId"=>"113771013575257379137"}
+}

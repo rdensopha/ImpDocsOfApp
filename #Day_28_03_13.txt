@@ -1,0 +1,40 @@
+#Day_28_03_13
+
+10:30 a.m
+
+create Question Bank database setup for the project...
+
+Models that may be required..
+
+Category with self join.
+Question
+User
+Answer
+
+Also required
+authorisation
+
+
+-----------domain names---------------------
+verifymyproperty.in/.com
+propertychecklist.in/.com
+
+
+===============Models========================
+
+Project
+       --name:string
+         location:string
+
+Developer
+        --name:string
+        --location:string
+        --office Address:text
+        --email_id:text
+        --website_url:string
+        --phone Numbers:
+
+Question
+        --questionContent:text
+        --answerType:string
+                         
